@@ -3,7 +3,7 @@
 # dependencies
 /node_modules
 Server/node_modules
-Frontend/whatsappwebjs-cli/node_modules
+Frontend/whatsappwebjs-client/node_modules
 /.pnp
 .pnp.js
 
