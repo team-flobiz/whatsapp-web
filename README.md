@@ -1,6 +1,5 @@
-# whatsapp-web
 
-Server -> 
+### Server
 # WhatsApp Web JS Server
 
 This is a Node.js server that facilitates the creation of WhatsApp Web sessions using the [whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) library. It also serves as a communication bridge between clients and the WhatsApp Web interface.
@@ -59,7 +58,7 @@ Follow these steps to set up and run the server:
 6. Clients can then send a "getAllChats" event to retrieve all chats from the WhatsApp Web interface.
 
  
-## Frontend 
+### Frontend 
 
 # WhatsApp Web JS Client
 
