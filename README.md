@@ -1,6 +1,6 @@
 
 ### Server
-# WhatsApp Web JS Server
+### WhatsApp Web JS Server
 
 This is a Node.js server that facilitates the creation of WhatsApp Web sessions using the [whatsapp-web.js](https://github.com/pedroslopez/whatsapp-web.js) library. It also serves as a communication bridge between clients and the WhatsApp Web interface.
 
